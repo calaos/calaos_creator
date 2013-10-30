@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/dialog-ok.png</file>
+        <file>data/dialog-cancel.png</file>
+        <file>data/edit-rename.png</file>
+        <file>data/edit_add.png</file>
+        <file>data/edit_remove.png</file>
+        <file>data/document-open.png</file>
+        <file>data/view-refresh.png</file>
+        <file>data/run-build.png</file>
+        <file>data/document-properties.png</file>
+        <file>create_cf.sh</file>
+    </qresource>
+</RCC>

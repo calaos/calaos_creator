@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Calaos Image Creator
+GenericName=Calaos Image Creator
+X-GNOME-FullName=Calaos Image Creator
+Comment=Create a full Calaos system on a disk
+Exec=gksu /usr/bin/calaos_creator
+Icon=calaos
+Terminal=false
+Type=Application
+Categories=GNOME;System;
+StartupNotify=true
